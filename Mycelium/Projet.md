@@ -13,7 +13,7 @@ Même si je trouve le projet assez impresionnant et félicite la réussite des �
 **Echomarine**
 Par Florence Lapierre, Natacha Abdallah, Tracy Gua et Marie Laura Coronel
 
-Lien avec le thème myclélium:
+Lien avec le thème myclélium(RACINES):
 
 3 cours du programme: Intégration Web, animation 2D,
 
