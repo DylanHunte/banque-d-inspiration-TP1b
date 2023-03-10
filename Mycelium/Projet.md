@@ -8,7 +8,7 @@ Préférence: 3
 **Echomarine**
 Par Florence Lapierre, Natacha Abdallah, Tracy Gua et Marie Laura Coronel
 
-3 cours du programme: Intégration Web,
+3 cours du programme: Intégration Web, animation 2D,
 
 Préférence: 1
 
