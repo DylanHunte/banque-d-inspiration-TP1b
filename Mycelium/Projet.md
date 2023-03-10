@@ -42,3 +42,5 @@ Par Abdanor Yara
 3 cours du programme:
 
 Préférence: 5
+
+L'idée du projet est intéressant mais le artstyle utilisé est pas vraiment que j'aime du fait que sa ressemble se qu'un ado dans leur phase ghotique ferait en essayant d'être profont et sombre.
