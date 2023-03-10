@@ -11,6 +11,8 @@ Même si je trouve le projet assez impresionnant et félicite la réussite des �
 **Echomarine**
 Par Florence Lapierre, Natacha Abdallah, Tracy Gua et Marie Laura Coronel
 
+Lien avec le thème myclélium:
+
 3 cours du programme: Intégration Web, animation 2D,
 
 Préférence: 1
@@ -44,4 +46,4 @@ Par Abdanor Yara
 
 Préférence: 5
 
-L'idée du projet est intéressant mais le artstyle utilisé est pas vraiment que j'aime du fait que sa ressemble se qu'un ado dans leur phase ghotique ferait en essayant d'être profont et sombre.
+L'idée du projet est intéressant mais le artstyle et le design des monstres utilisé n'est pas vraiment quelque chose j'aime du fait que sa ressemble se qu'un ado dans leur phase ghotique ferait en essayant d'être profont et sombre.
