@@ -37,7 +37,7 @@ Par Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson
 
 Préférence: 4
 
-Honnêtement, je trouve que juste utilisé des lumières sur un chemins et des plantes manque d'efforts pour un projet. Sa va sûrement être beau a voir mais sa change pas le problèmes que j'ai.
+Honnêtement, je trouve que juste utilisé des lumières sur un chemins et des plantes manque d'efforts pour un projet. Sa va sûrement être beau a voir mais sa change pas le problème que j'ai.
 
 **Zodie-Gal**
 Par Abdanor Yara
