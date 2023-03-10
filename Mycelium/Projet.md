@@ -15,6 +15,7 @@ Par Florence Lapierre, Natacha Abdallah, Tracy Gua et Marie Laura Coronel
 
 Préférence: 1
 
+J'aime l'atmosphère de l'océan que se projet essaie de donné avec le projecteur, les sons et les animations des créatures marines que l'équipe a choisi. Sa donne vraiment l'impression que je suis sous l'eau.
 
 
 **EDRIA**
