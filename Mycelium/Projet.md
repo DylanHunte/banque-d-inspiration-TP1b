@@ -5,12 +5,16 @@ Par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers
 
 Préférence: 3
 
+Même si je trouve le projet assez impresionnant et félicite la réussite des élèves pour la faire marché, utilisé une byceltte comme source d'énergie est quelque chose que j'ai vu pluseurs fois comme idée que se n'est plus vraiment originale.
+
 **Echomarine**
 Par Florence Lapierre, Natacha Abdallah, Tracy Gua et Marie Laura Coronel
 
 3 cours du programme: Intégration Web, animation 2D,
 
 Préférence: 1
+
+
 
 **EDRIA**
 Par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
@@ -19,12 +23,14 @@ Par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbich
 
 Préférence: 2
 
+
 **Luma Sol**
 Par Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson
 
 3 cours du programme:
 
 Préférence: 4
+
 
 **Zodie-Gal**
 Par Abdanor Yara
