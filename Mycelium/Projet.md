@@ -8,6 +8,7 @@ Préférence: 3
 Même si je trouve le projet assez impresionnant et félicite la réussite des élèves pour la faire marché, utilisé une bycelette comme source d'énergie est quelque chose que j'ai vu pluseurs fois comme idée que se n'est plus vraiment originale.
 
 
+
 **Echomarine**
 Par Florence Lapierre, Natacha Abdallah, Tracy Gua et Marie Laura Coronel
 
