@@ -1,12 +1,13 @@
 **Boucler la boucle**
 Par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers
 
+Lien avec le thème myclélium:
+
 3 cours du programme:
 
 Préférence: 3
 
 Même si je trouve le projet assez impresionnant et félicite la réussite des élèves pour la faire marché, utilisé une bycelette comme source d'énergie est quelque chose que j'ai vu pluseurs fois comme idée que se n'est plus vraiment originale.
-
 
 
 **Echomarine**
@@ -24,6 +25,8 @@ J'aime l'atmosphère de l'océan que se projet essaie de donné avec le projecte
 **EDRIA**
 Par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
 
+Lien avec le thème myclélium:
+
 3 cours du programme:
 
 Préférence: 2
@@ -34,6 +37,8 @@ Déjà, utilisé du détections de mouvement pour le projet est assez unique mê
 **Luma Sol**
 Par Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson
 
+Lien avec le thème myclélium:
+
 3 cours du programme:
 
 Préférence: 4
@@ -42,6 +47,8 @@ Honnêtement, je trouve que juste utilisé des lumières sur un chemins et des p
 
 **Zodie-Gal**
 Par Abdanor Yara
+
+Lien avec le thème myclélium:
 
 3 cours du programme:
 
