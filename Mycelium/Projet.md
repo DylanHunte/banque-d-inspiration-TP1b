@@ -5,7 +5,8 @@ Par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers
 
 Préférence: 3
 
-Même si je trouve le projet assez impresionnant et félicite la réussite des élèves pour la faire marché, utilisé une byceltte comme source d'énergie est quelque chose que j'ai vu pluseurs fois comme idée que se n'est plus vraiment originale.
+Même si je trouve le projet assez impresionnant et félicite la réussite des élèves pour la faire marché, utilisé une bycelette comme source d'énergie est quelque chose que j'ai vu pluseurs fois comme idée que se n'est plus vraiment originale.
+
 
 **Echomarine**
 Par Florence Lapierre, Natacha Abdallah, Tracy Gua et Marie Laura Coronel
@@ -22,6 +23,8 @@ Par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbich
 3 cours du programme:
 
 Préférence: 2
+
+Déjà, utilisé du détections de mouvement pour le projet est assez unique même si sa peut être difficile a faire. Mais avoir des sons qui sont joué selon combient et où les gens son placé est un accomplisement que je dois félicité l'équipe.
 
 
 **Luma Sol**
