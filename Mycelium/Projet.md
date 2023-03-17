@@ -56,4 +56,6 @@ Préférence: 5
 
 L'idée du projet est intéressant mais le artstyle et le design des monstres utilisé n'est pas vraiment quelque chose j'aime du fait que sa ressemble se qu'un ado dans leur phase ghotique ferait en essayant d'être profont et sombre.
 
+Préférence après essaie: 5
 
+Le plus gros problème que j'ai rencontré dans se project est le manque d'instructions pour l'utilisateur. J'ai cliqué sur l'un des choix de jeux et celui ci montrait juste une image sans me dire l'objectif
