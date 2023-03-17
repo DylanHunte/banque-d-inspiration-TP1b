@@ -5,9 +5,9 @@ Lien avec le thème myclélium:
 
 3 cours du programme:
 
-Préférence: 3
+Préférence: 4
 
-Même si je trouve le projet assez impresionnant et félicite la réussite des élèves pour la faire marché, utilisé une bycelette comme source d'énergie est quelque chose que j'ai vu pluseurs fois comme idée que se n'est plus vraiment originale.
+Honnêtement, je trouve que juste utilisé des lumières sur un chemins et des plantes manque d'efforts pour un projet. Sa va sûrement être beau a voir mais sa change pas le problème que j'ai.
 
 
 **Echomarine**
@@ -41,9 +41,9 @@ Lien avec le thème myclélium:
 
 3 cours du programme:
 
-Préférence: 4
+Préférence: 3
 
-Honnêtement, je trouve que juste utilisé des lumières sur un chemins et des plantes manque d'efforts pour un projet. Sa va sûrement être beau a voir mais sa change pas le problème que j'ai.
+Même si je trouve le projet assez impresionnant et félicite la réussite des élèves pour la faire marché, utilisé une bycelette comme source d'énergie est quelque chose que j'ai vu pluseurs fois comme idée que se n'est plus vraiment originale.
 
 **Zodie-Gal**
 Par Abdanor Yara
@@ -55,3 +55,5 @@ Lien avec le thème myclélium:
 Préférence: 5
 
 L'idée du projet est intéressant mais le artstyle et le design des monstres utilisé n'est pas vraiment quelque chose j'aime du fait que sa ressemble se qu'un ado dans leur phase ghotique ferait en essayant d'être profont et sombre.
+
+
