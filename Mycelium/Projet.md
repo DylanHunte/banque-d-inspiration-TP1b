@@ -1,4 +1,4 @@
-**Boucler la boucle**
+**Nexum**
 Par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers
 
 Lien avec le thème myclélium:
