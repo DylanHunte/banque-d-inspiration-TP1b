@@ -45,6 +45,10 @@ Préférence: 3
 
 Même si je trouve le projet assez impresionnant et félicite la réussite des élèves pour la faire marché, utilisé une bycelette comme source d'énergie est quelque chose que j'ai vu pluseurs fois comme idée que se n'est plus vraiment originale.
 
+Préférence après essaie: 3
+
+Les commentaires reste les même mais je dois admettre que je m'attendai pas que le vélo aussi aurait du sons selon la façon que la personne pédale. Se qui est très bien pour l'équipe du projet
+
 **Zodie-Gal**
 Par Abdanor Yara
 
@@ -58,4 +62,4 @@ L'idée du projet est intéressant mais le artstyle et le design des monstres ut
 
 Préférence après essaie: 5
 
-Le plus gros problème que j'ai rencontré dans se project est le manque d'instructions pour l'utilisateur. J'ai cliqué sur l'un des choix de jeux et celui ci montrait juste une image sans me dire l'objectif
+Le plus gros problème que j'ai rencontré dans se projet est le manque d'instructions pour l'utilisateur. J'ai cliqué sur l'un des choix de jeux et celui ci montrait juste une image sans me dire l'objectif
