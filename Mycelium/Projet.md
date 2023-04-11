@@ -5,6 +5,10 @@ Lien avec le thème myclélium: Les lumières mauves sont utilisé afin de repr�
 
 3 cours du programme: Intégration Web, Installation multimédia
 
+Instalation:
+
+Schéma:
+
 Préférence: 4
 
 Honnêtement, je trouve que juste utilisé des lumières sur un chemins et des plantes manque d'efforts pour un projet. Sa va sûrement être beau a voir mais sa change pas le problème que j'ai.
@@ -16,6 +20,10 @@ Par Florence Lapierre, Natacha Abdallah, Tracy Gua et Marie Laura Coronel
 Lien avec le thème myclélium: Le project a raport sur la vie aquatique auquel certain champignon existe sous l'eau.
 
 3 cours du programme: Intégration Web, animation 2D, Conception vidéo
+
+Instalation:
+
+Schéma:
 
 Préférence: 1
 
@@ -29,6 +37,10 @@ Lien avec le thème myclélium: Plusieur feuilles sont mit sur les instalations
 
 3 cours du programme: Intégration Web, Traitement audiovisuel, Installation multimédia
 
+Instalation:
+
+Schéma:
+
 Préférence: 2
 
 Déjà, utilisé du détections de mouvement pour le projet est assez unique même si sa peut être difficile a faire. Mais avoir des sons qui sont joué selon combient et où les gens son placé est un accomplisement que je dois félicité l'équipe.
@@ -40,6 +52,10 @@ Par Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson
 Lien avec le thème myclélium: Plusieur des lumières ont étaient placé sur un arbre.
 
 3 cours du programme: Intégration Web, Traitement audiovisuel, Installation multimédia
+
+Instalation:
+
+Schéma:
 
 Préférence: 3
 
@@ -55,6 +71,10 @@ Par Abdanor Yara
 Lien avec le thème myclélium: L'environment du jeu et le design de plusieur personnages ont des champions sur eux.
 
 3 cours du programme: Intégration Web, Programmation interactive, Design graphique
+
+Instalation:
+
+Schéma:
 
 Préférence: 5
 
