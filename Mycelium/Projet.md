@@ -3,7 +3,7 @@ Par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers
 
 Lien avec le thème myclélium: Les lumières mauves sont utilisé afin de représenté des champignons dans leur chemin.
 
-3 cours du programme: Intégration Web, Installation multimédia
+3 cours du programme: Intégration Web, Installation multimédia, Objets interactifs
 
 Instalation:
 
