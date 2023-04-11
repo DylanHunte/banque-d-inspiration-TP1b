@@ -1,9 +1,9 @@
 **Nexum**
 Par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers
 
-Lien avec le thème myclélium:
+Lien avec le thème myclélium: Les lumières mauves sont utilisé afin de représenté des champignons dans leur chemin.
 
-3 cours du programme:
+3 cours du programme: Intégration Web,
 
 Préférence: 4
 
@@ -13,7 +13,7 @@ Honnêtement, je trouve que juste utilisé des lumières sur un chemins et des p
 **Echomarine**
 Par Florence Lapierre, Natacha Abdallah, Tracy Gua et Marie Laura Coronel
 
-Lien avec le thème myclélium(RACINES):
+Lien avec le thème myclélium: Le project a raport sur la vie aquatique auquel certain champignon existe sous l'eau.
 
 3 cours du programme: Intégration Web, animation 2D,
 
@@ -25,9 +25,9 @@ J'aime l'atmosphère de l'océan que se projet essaie de donné avec le projecte
 **EDRIA**
 Par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
 
-Lien avec le thème myclélium:
+Lien avec le thème myclélium: Plusieur feuilles sont mit sur les instalations
 
-3 cours du programme:
+3 cours du programme: Intégration Web
 
 Préférence: 2
 
@@ -39,7 +39,7 @@ Par Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson
 
 Lien avec le thème myclélium:
 
-3 cours du programme:
+3 cours du programme: Intégration Web
 
 Préférence: 3
 
@@ -54,7 +54,7 @@ Par Abdanor Yara
 
 Lien avec le thème myclélium: L'environment du jeu et le design de plusieur personnages ont des champions sur eux.
 
-3 cours du programme:
+3 cours du programme: Intégration Web
 
 Préférence: 5
 
