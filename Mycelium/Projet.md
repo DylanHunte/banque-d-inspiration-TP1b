@@ -52,7 +52,7 @@ Les commentaires reste les même mais je dois admettre que je m'attendai pas que
 **Zodie-Gal**
 Par Abdanor Yara
 
-Lien avec le thème myclélium:
+Lien avec le thème myclélium: L'environment du jeu et le design de plusieur personnages ont des champions sur eux.
 
 3 cours du programme:
 
@@ -67,3 +67,4 @@ Le plus gros problème que j'ai rencontré dans se projet est le manque d'instru
 
 **Sources**
 
+https://tim-montmorency.com/2023/
