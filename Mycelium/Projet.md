@@ -3,7 +3,7 @@ Par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers
 
 Lien avec le thème myclélium: Les lumières mauves sont utilisé afin de représenté des champignons dans leur chemin.
 
-3 cours du programme: Intégration Web,
+3 cours du programme: Intégration Web, Installation multimédia
 
 Préférence: 4
 
@@ -27,7 +27,7 @@ Par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbich
 
 Lien avec le thème myclélium: Plusieur feuilles sont mit sur les instalations
 
-3 cours du programme: Intégration Web, Traitement audiovisuel
+3 cours du programme: Intégration Web, Traitement audiovisuel, Installation multimédia
 
 Préférence: 2
 
@@ -37,9 +37,9 @@ Déjà, utilisé du détections de mouvement pour le projet est assez unique mê
 # **Luma Sol**
 Par Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson
 
-Lien avec le thème myclélium:
+Lien avec le thème myclélium: Plusieur des lumières ont étaient placé sur un arbre.
 
-3 cours du programme: Intégration Web, Traitement audiovisuel
+3 cours du programme: Intégration Web, Traitement audiovisuel, Installation multimédia
 
 Préférence: 3
 
@@ -54,7 +54,7 @@ Par Abdanor Yara
 
 Lien avec le thème myclélium: L'environment du jeu et le design de plusieur personnages ont des champions sur eux.
 
-3 cours du programme: Intégration Web
+3 cours du programme: Intégration Web, Programmation interactive, Design graphique
 
 Préférence: 5
 
