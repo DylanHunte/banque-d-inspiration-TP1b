@@ -10,13 +10,12 @@ Préférence: 4
 Honnêtement, je trouve que juste utilisé des lumières sur un chemins et des plantes manque d'efforts pour un projet. Sa va sûrement être beau a voir mais sa change pas le problème que j'ai.
 
 
-
 **Echomarine**
 Par Florence Lapierre, Natacha Abdallah, Tracy Gua et Marie Laura Coronel
 
 Lien avec le thème myclélium: Le project a raport sur la vie aquatique auquel certain champignon existe sous l'eau.
 
-3 cours du programme: Intégration Web, animation 2D,
+3 cours du programme: Intégration Web, animation 2D, Conception vidéo
 
 Préférence: 1
 
@@ -28,7 +27,7 @@ Par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbich
 
 Lien avec le thème myclélium: Plusieur feuilles sont mit sur les instalations
 
-3 cours du programme: Intégration Web
+3 cours du programme: Intégration Web, Traitement audiovisuel
 
 Préférence: 2
 
@@ -40,7 +39,7 @@ Par Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson
 
 Lien avec le thème myclélium:
 
-3 cours du programme: Intégration Web
+3 cours du programme: Intégration Web, Traitement audiovisuel
 
 Préférence: 3
 
