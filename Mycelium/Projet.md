@@ -1,4 +1,4 @@
-**Nexum**
+# **Nexum**
 Par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel et Maxime Des Lauriers
 
 Lien avec le thème myclélium: Les lumières mauves sont utilisé afin de représenté des champignons dans leur chemin.
@@ -10,7 +10,7 @@ Préférence: 4
 Honnêtement, je trouve que juste utilisé des lumières sur un chemins et des plantes manque d'efforts pour un projet. Sa va sûrement être beau a voir mais sa change pas le problème que j'ai.
 
 
-**Echomarine**
+# **Echomarine**
 Par Florence Lapierre, Natacha Abdallah, Tracy Gua et Marie Laura Coronel
 
 Lien avec le thème myclélium: Le project a raport sur la vie aquatique auquel certain champignon existe sous l'eau.
@@ -22,7 +22,7 @@ Préférence: 1
 J'aime l'atmosphère de l'océan que se projet essaie de donné avec le projecteur, les sons et les animations des créatures marines que l'équipe a choisi. Sa donne vraiment l'impression que je suis sous l'eau.
 
 
-**EDRIA**
+# **EDRIA**
 Par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche et Jean-Christophe
 
 Lien avec le thème myclélium: Plusieur feuilles sont mit sur les instalations
@@ -34,7 +34,7 @@ Préférence: 2
 Déjà, utilisé du détections de mouvement pour le projet est assez unique même si sa peut être difficile a faire. Mais avoir des sons qui sont joué selon combient et où les gens son placé est un accomplisement que je dois félicité l'équipe.
 
 
-**Luma Sol**
+# **Luma Sol**
 Par Éloïse Gagné, Skayla Stimphil, Michaël Simard et Pénélope Morrisson
 
 Lien avec le thème myclélium:
@@ -49,7 +49,7 @@ Préférence après essaie: 3
 
 Les commentaires reste les même mais je dois admettre que je m'attendai pas que le vélo aussi aurait du sons selon la façon que la personne pédale. Se qui est très bien pour l'équipe du projet
 
-**Zodie-Gal**
+# **Zodie-Gal**
 Par Abdanor Yara
 
 Lien avec le thème myclélium: L'environment du jeu et le design de plusieur personnages ont des champions sur eux.
