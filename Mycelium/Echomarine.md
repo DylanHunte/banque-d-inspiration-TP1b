@@ -17,7 +17,7 @@ Echomarine
 ![resonances_vue_ensemble](Media/Resonances_vue_ensemble.jpg)
 
 **Nom des artistes:**
-Louis-Philippe Rondeau
+Florence Lapierre, Natacha Abdallah, Tracy Gua et Marie Laura Coronel
 
 **Année de réalisation:**
 2023
@@ -47,7 +47,8 @@ https://youtu.be/XJkwDDyFDzc
 La personne doit touché un symbole sur la tablette. La tablette montre des détails sur l'animal sélectioné et mettre une animation sur les murs.
 
 **Ce qui m'a plu, m'a donné des idées:**
-La façon donc l'artist a réussi de donner l'illusion d'une personne comme une peinture sur l'écran géant.
+J'aime l'atmosphère de l'océan que se projet essaie de donné avec le projecteur, les sons et les animations des créatures marines que l'équipe a choisi. Sa donne vraiment l'impression que je suis sous l'eau.
+
 **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications:**
 Sûrement faire le code pour plusieur options puisque sa prendrait beaucoup de temps et le fichier a des chances de devenir trop gros.
 
