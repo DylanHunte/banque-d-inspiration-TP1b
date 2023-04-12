@@ -1,7 +1,7 @@
 # BIAN
 
 **Nom de l'exposition:**
-Echomarine
+Mycélium
 
 **Lieu de mise en exposition**
 Montmorency
