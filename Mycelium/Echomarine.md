@@ -43,8 +43,8 @@ ordinateur
 ![ordinateur](Media/Ordi_resonances_zoom.jpg)
 
 **Expérience vécue:**
-https://youtu.be/j8OxmzXTF3A
-La personne doive passé devant la caméra et sa va vers l'écran.
+https://youtu.be/XJkwDDyFDzc
+La personne doit touché un symbole sur la tablette. La tablette montre des détails sur l'animal sélectioné et mettre une animation sur les murs.
 
 **Ce qui m'a plu, m'a donné des idées:**
 La façon donc l'artist a réussi de donner l'illusion d'une personne comme une peinture sur l'écran géant.
