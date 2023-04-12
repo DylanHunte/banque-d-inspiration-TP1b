@@ -14,7 +14,6 @@ Intérieure
 
 **titre de l'oeuvre:**
 Echomarine
-![resonances_vue_ensemble](Media/Resonances_vue_ensemble.jpg)
 
 **Nom des artistes:**
 Florence Lapierre, Natacha Abdallah, Tracy Gua et Marie Laura Coronel
@@ -29,18 +28,18 @@ Un écran géant qui quand une personne passe devant la caméra utilisé, s'affi
 **Type d'installation: Interactive**
 ![manuel_resonances_image](Media/Manuel_resonances_image.jpg)
 
+**Fonction du dispositif multimédia**
+
 **Mise en espace:**
 ![pov_droite](Media/Resonances_POVDroite.jpg)
 ![pov_face](Media/Resonances_POVface.jpg)
+
 **Composantes et techniques:**
 
-**Éléments nécessaires à la mise en exposition:**
 
-caméra
-![camera](Media/Camera.jpg)
-écran,
-ordinateur
-![ordinateur](Media/Ordi_resonances_zoom.jpg)
+**Éléments nécessaires à la mise en exposition:**
+Tablette
+projecteur
 
 **Expérience vécue:**
 https://youtu.be/XJkwDDyFDzc
@@ -50,5 +49,8 @@ La personne doit touché un symbole sur la tablette. La tablette montre des dét
 J'aime l'atmosphère de l'océan que se projet essaie de donné avec le projecteur, les sons et les animations des créatures marines que l'équipe a choisi. Sa donne vraiment l'impression que je suis sous l'eau.
 
 **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications:**
-Sûrement faire le code pour plusieur options puisque sa prendrait beaucoup de temps et le fichier a des chances de devenir trop gros.
+La façon de comment connecter la tablette sur le projecteur pour que les animations soient activité.
 
+**Référence:**
+https://tim-montmorency.com/2023/projets/Echomarine/docs/web/preproduction.html
+https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html
