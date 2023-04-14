@@ -39,6 +39,7 @@ Un écran géant qui quand une personne passe devant la caméra utilisé, s'affi
 
 **Éléments nécessaires à la mise en exposition:**
 Tablette
+![echomarine_tablette](Media/echomarine_tablette.jpg)
 projecteur
 
 **Expérience vécue:**
