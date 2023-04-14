@@ -31,15 +31,14 @@ Un écran géant qui quand une personne passe devant la caméra utilisé, s'affi
 **Fonction du dispositif multimédia**
 
 **Mise en espace:**
-![pov_droite](Media/Resonances_POVDroite.jpg)
-![pov_face](Media/Resonances_POVface.jpg)
+![echomarine_vue_ensemble](Bian/medias/media/echomarine_vue_ensemble.jpg)
 
 **Composantes et techniques:**
 
 
 **Éléments nécessaires à la mise en exposition:**
 Tablette
-![echomarine_tablette](medias/medias/echomarine_tablette.jpg)
+![echomarine_tablette](Bian/medias/medias/echomarine_tablette.jpg)
 projecteur
 
 **Expérience vécue:**
