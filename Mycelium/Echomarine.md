@@ -18,7 +18,7 @@ Echomarine
 **Nom des artistes:**
 Florence Lapierre, Natacha Abdallah, Tracy Gua et Marie Laura Coronel
 
-**Année de réalisation:**
+**Année de réalisation:** 
 2023
 
 **Description de l'oeuvre:**
