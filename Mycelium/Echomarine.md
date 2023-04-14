@@ -23,7 +23,7 @@ Florence Lapierre, Natacha Abdallah, Tracy Gua et Marie Laura Coronel
 
 **Description de l'oeuvre:**
 Un écran géant qui quand une personne passe devant la caméra utilisé, s'affiche au mur comme un graffiti
-![manuel_resonances_texte](Media/Manuel_resonances_texte.jpg)
+![echomarine_affiche](medias/medias/echomarine_affiche.jpg)
 
 **Type d'installation: Interactive**
 ![manuel_resonances_image](Media/Manuel_resonances_image.jpg)
