@@ -1,7 +1,7 @@
 # BIAN
 
 **Nom de l'exposition:**
-
+Humain
 
 **Lieu de mise en exposition**
 Centre des Sciences de Montréal
@@ -13,6 +13,7 @@ Intérieure
 18 avril 2023 - 18/04/2023 
 
 **titre de l'oeuvre:**
+Nés pour courir
 
 **Nom des artistes:**
 
