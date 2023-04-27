@@ -12,12 +12,13 @@ Intérieure
 18 avril 2023 - 18/04/2023 
 
 **titre de l'oeuvre:**
+VahMirè
 
 **Nom des artistes:**
-
+Ludmilla Steckelberg
 
 **Année de réalisation:** 
-
+2021
 
 **Description de l'oeuvre:**
 
@@ -26,6 +27,7 @@ Intérieure
 
 
 **Fonction du dispositif multimédia**
+
 
 **Mise en espace:**
 
