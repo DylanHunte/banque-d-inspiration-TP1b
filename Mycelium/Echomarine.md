@@ -26,12 +26,12 @@ Un écran géant qui quand une personne passe devant la caméra utilisé, s'affi
 ![echomarine_affiche](media/echomarine_affiche.jpg)
 
 **Type d'installation: Interactive**
-![manuel_resonances_image](Media/Manuel_resonances_image.jpg)
+![manuel_resonances_image](media/Manuel_resonances_image.jpg)
 
 **Fonction du dispositif multimédia**
 
 **Mise en espace:**
-![echomarine_vue_ensemble](Bian/medias/media/echomarine_vue_ensemble.jpg)
+![echomarine_vue_ensemble](media/echomarine_vue_ensemble.jpg)
 
 **Composantes et techniques:**
 
