@@ -1,7 +1,7 @@
 # BIAN
 
 **Nom de l'exposition:**
-
+Condition d'utilisation
 
 **Lieu de mise en exposition**
 Fondation PHI
