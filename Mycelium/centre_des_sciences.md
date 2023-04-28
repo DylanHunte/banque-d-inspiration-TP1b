@@ -33,6 +33,7 @@ Nés pour courir
 **Mise en espace:**
 
 ![hexagone_courir.jpg](media/hexagone_courir.jpg)
+
 **Composantes et techniques:**
 
 
