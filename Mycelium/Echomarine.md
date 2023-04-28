@@ -43,12 +43,15 @@ projecteur
 
 **Expérience vécue:**
 https://youtu.be/XJkwDDyFDzc
+
 La personne doit touché un symbole sur la tablette. La tablette montre des détails sur l'animal sélectioné et mettre une animation sur les murs.
 
 **Ce qui m'a plu, m'a donné des idées:**
+
 J'aime l'atmosphère de l'océan que se projet essaie de donné avec le projecteur, les sons et les animations des créatures marines que l'équipe a choisi. Sa donne vraiment l'impression que je suis sous l'eau.
 
 **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications:**
+
 La façon de comment connecter la tablette sur le projecteur pour que les animations soient activité.
 
 **Référence:**
