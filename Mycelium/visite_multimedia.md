@@ -2,6 +2,7 @@
 
 **Nom de l'exposition:**
 Condition d'utilisation
+![media/brochure.jpg](media/brochure.jpg)
 
 **Lieu de mise en exposition**
 Fondation PHI
