@@ -46,7 +46,7 @@ Nés pour courir
 
 
 **Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications:**
-
+Essaye de trouver le bon rhytme de mouvement puisque j'ai remarque que si je bougait seulement mes bras comme si je fessait du rollerskate, j'arrivé a resté dans le milieu de la bar que lorsque je fesait du jogging.
 
 **Référence:**
 
