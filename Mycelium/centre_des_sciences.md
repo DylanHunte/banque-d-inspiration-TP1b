@@ -2,7 +2,7 @@
 
 **Nom de l'exposition:**
 Humain
-
+![human_expo.jpg](media/human_expo.jpg)
 **Lieu de mise en exposition**
 Centre des Sciences de Montréal
 
