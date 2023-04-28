@@ -39,6 +39,8 @@ L'utilisateur utilise un casque vr pour voir certain endroits à Montréal.
 
 **Éléments nécessaires à la mise en exposition:**
 
+projecteur
+![media/projecteur_visite.jpg](media/projecteur_visite.jpg)
 
 **Expérience vécue:**
 
