@@ -23,7 +23,7 @@ Nés pour courir
 
 
 **Description de l'oeuvre:**
-
+![nés_pour_courir.jpg](media/nés_pour_courir.jpg)
 
 **Type d'installation: Interactive**
 
