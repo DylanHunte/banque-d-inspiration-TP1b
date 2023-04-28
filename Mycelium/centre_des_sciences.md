@@ -5,6 +5,7 @@ Humain
 ![human_expo.jpg](media/human_expo.jpg)
 **Lieu de mise en exposition**
 Centre des Sciences de Montréal
+![entre_centre_science.jpg](media/entre_centre_science.jpg)
 
 **Type d'exposition:**
 Intérieure
