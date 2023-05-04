@@ -45,7 +45,7 @@ Projecteur
 ![media/projecteur_visite.jpg](media/projecteur_visite.jpg)
 
 **Expérience vécue:**
-
+https://youtu.be/3zZtTvRpfgs
 
 **Ce qui m'a plu, m'a donné des idées:**
 
