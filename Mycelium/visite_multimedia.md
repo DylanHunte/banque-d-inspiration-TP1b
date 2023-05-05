@@ -47,7 +47,7 @@ Projecteur
 **Expérience vécue:**
 https://youtu.be/3zZtTvRpfgs
 
-**Aspect aimé:**
+**Aspect plaisant:**
 
 
 **Aspect pas plus:**
