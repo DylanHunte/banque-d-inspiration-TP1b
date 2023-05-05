@@ -31,7 +31,8 @@ Nés pour courir
 **Fonction du dispositif multimédia**
 
 **Mise en espace:**
-
+![point_de_vue_gauche_courrir.jpg](media/point_de_vue_gauche_courrir.jpg)
+![point_de_vue_droite_courir.jpg](media/point_de_vue_droite_courir.jpg)
 ![hexagone_courir.jpg](media/hexagone_courir.jpg)
 
 **Composantes et techniques:**
