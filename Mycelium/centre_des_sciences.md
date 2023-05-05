@@ -47,11 +47,11 @@ Caméra
 **Expérience vécue:**
 https://youtube.com/shorts/Y-JJkW1kohU
 
-**Ce qui m'a plu, m'a donné des idées:**
+**Aspect aimer**
 
-La façon que le'installation ne fait pas juste montré, mais laisse l'utilisateur faire un jeu pour mieux apprendre comment leur ancêtres on fait pour survive aussi longtemps durant une époque prrimitif
+La façon que l'installation ne fait pas juste montré, mais laisse l'utilisateur faire un jeu pour mieux apprendre comment leur ancêtres on fait pour survive aussi longtemps durant une époque primitif
 
-**Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications:**
+**Aspect pas plus:**
 
 Essaye de trouver le bon rhytme de mouvement puisque j'ai remarque que si je bougait seulement mes bras comme si je fessait du rollerskate, j'arrivé a resté dans le milieu de la bar que lorsque je fesait du jogging.
 
