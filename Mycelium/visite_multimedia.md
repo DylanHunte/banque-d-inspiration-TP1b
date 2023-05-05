@@ -47,10 +47,10 @@ Projecteur
 **Expérience vécue:**
 https://youtu.be/3zZtTvRpfgs
 
-**Ce qui m'a plu, m'a donné des idées:**
+**Aspect aimé:**
 
 
-**Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications:**
+**Aspect pas plus:**
 
 
 **Référence:**
