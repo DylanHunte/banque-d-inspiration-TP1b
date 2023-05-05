@@ -17,10 +17,10 @@ Intérieure
 Nés pour courir
 
 **Nom des artistes:**
-
+N/A
 
 **Année de réalisation:** 
-
+N/A
 
 **Description de l'oeuvre:**
 ![nés_pour_courir.jpg](media/nés_pour_courir.jpg)
