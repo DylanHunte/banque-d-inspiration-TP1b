@@ -43,7 +43,7 @@ Caméra
 ![camera_courir.jpg](media/camera_courir.jpg)
 
 **Expérience vécue:**
-
+https://youtube.com/shorts/Y-JJkW1kohU
 
 **Ce qui m'a plu, m'a donné des idées:**
 
