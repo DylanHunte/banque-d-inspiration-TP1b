@@ -38,7 +38,8 @@ Nés pour courir
 
 
 **Éléments nécessaires à la mise en exposition:**
-
+Écran
+![ecran_courir.jpeg](media/ecran_courir.jpeg)
 Caméra
 ![camera_courir.jpg](media/camera_courir.jpg)
 
