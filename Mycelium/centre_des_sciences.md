@@ -47,7 +47,7 @@ Caméra
 **Expérience vécue:**
 https://youtube.com/shorts/Y-JJkW1kohU
 
-**Aspect aimer**
+**Aspect plaisant**
 
 La façon que l'installation ne fait pas juste montré, mais laisse l'utilisateur faire un jeu pour mieux apprendre comment leur ancêtres on fait pour survive aussi longtemps durant une époque primitif
 
