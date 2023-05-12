@@ -48,10 +48,10 @@ Projecteur
 https://youtu.be/3zZtTvRpfgs
 
 **Aspect plaisant:**
-
+Le style de présentation qui était comme si c'était fait en fragment de verre ou a la Picasso
 
 **Aspect pas plus:**
-
+C'était impossible de regardé dériere des endrois séléctionné dans le casque
 
 **Référence:**
 
