@@ -6,6 +6,7 @@ Condition d'utilisation
 
 **Lieu de mise en exposition**
 Fondation PHI
+![media/devant_visite.jpg](media/devant_visite.jpg)
 
 **Type d'exposition:**
 Intérieure
