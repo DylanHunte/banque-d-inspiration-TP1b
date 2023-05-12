@@ -32,7 +32,7 @@ L'utilisateur utilise un casque vr pour voir certain endroits à Montréal.
 
 
 **Fonction du dispositif multimédia**
-
+Réalité virtuel
 
 **Mise en espace:**
 
