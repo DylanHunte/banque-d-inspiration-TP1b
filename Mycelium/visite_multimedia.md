@@ -44,6 +44,7 @@ L'utilisateur utilise un casque vr pour voir certain endroits à Montréal.
 
 Projecteur
 ![media/projecteur_visite.jpg](media/projecteur_visite.jpg)
+casque VR
 
 **Expérience vécue:**
 https://youtu.be/3zZtTvRpfgs
