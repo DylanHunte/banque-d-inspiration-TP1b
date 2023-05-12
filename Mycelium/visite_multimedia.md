@@ -35,7 +35,7 @@ L'utilisateur utilise un casque vr pour voir certain endroits à Montréal.
 Réalité virtuel
 
 **Mise en espace:**
-
+L'oeuvre est dans une salle qui est pas très grande aux deuxième étage
 ![media/lieu_visite.jpg](media/lieu_visite.jpg)
 
 **Composantes et techniques:**
