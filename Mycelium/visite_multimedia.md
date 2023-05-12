@@ -25,7 +25,7 @@ Ludmilla Steckelberg
 **Description de l'oeuvre:**
 
 L'utilisateur utilise un casque vr pour voir certain endroits à Montréal.
-![media/lieu_visite.jpg](lieu_visite.jpg)
+![media/lieu_visite.jpg](media/lieu_visite.jpg)
 
 **Type d'installation:** Interactive
 
